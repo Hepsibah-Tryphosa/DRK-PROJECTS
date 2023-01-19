@@ -23,11 +23,11 @@
 
 
 ### Pre-requisites
-- Mysql 5.1
-- JDK 8
+- [Mysql 5.1](https://drive.google.com/file/d/1SrOB7_Jbl30zup1Q0cD-_tgPO21aw_65/view?usp=share_link)
+- [JDK 8](https://drive.google.com/file/d/18DJA6ZIIb1Bj6n4wsDv_hQW8NkKEqVFW/view?usp=share_link)
 - Apache Tomacat 8
-- Netbeans 8.2
-- Mysql Query Browser or  SQLYog
+- [Netbeans 8.2](https://drive.google.com/file/d/1AkUgHBGWGeWDPqFJ8ZfiSWeCvZ2Gy_hx/view?usp=share_link)
+- [Mysql Query Browser or  SQLYog](https://drive.google.com/file/d/13cbqhLp-EJR3Gs8EopkpXGaaWljg3IBJ/view?usp=share_link)
 
 ### Steps to Run
 - Load SQL into Database
